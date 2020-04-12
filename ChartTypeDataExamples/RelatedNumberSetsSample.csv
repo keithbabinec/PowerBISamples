@@ -1,0 +1,6 @@
+"ServiceComponent","RequestsPerHour","AverageLatency"
+"BackendApiService","2834","112"
+"SubmissionService","1956","743"
+"EmailService","249","228"
+"AuditService","5472","52"
+"TelemetryService","10346","59"
